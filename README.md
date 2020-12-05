@@ -16,7 +16,7 @@ Link to dataset :https://www.kaggle.com/mlg-ulb/creditcardfraud
 Since the dataset is highly imbalanced, so we used algorithm to detect anomaly:
 1. IsolationForest
 2. LocalOutlierFactor
- out of which IsolatonForest worked well.
+ out of which IsolatonForest worked well with 99.73% accuracy and LocalOutlierFactor achieved accuracy of 99.65%.
 
 ### Programming language used
 ![](images/index.jpeg)
