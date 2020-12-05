@@ -1,6 +1,9 @@
 # Credit card fraud detection
 ![](images/images.jpeg)
 
+### Overview
+This machine learning project is about credit card fraud or anomaly detection.
+
 ### Context
 It is important that credit card companies are able to recognize fraudulent credit card transactions so that customers are not charged for items that they did not purchase.
 
