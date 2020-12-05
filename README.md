@@ -11,3 +11,12 @@ It contains only numerical input variables which are the result of a PCA transfo
 ### Dataset
 We can find dataset on kaggle.
 Link to dataset :https://www.kaggle.com/mlg-ulb/creditcardfraud
+
+### Machine Learning ALgorithm Used
+Since the dataset is highly imbalanced, so we used algorithm to detect anomaly:
+1. IsolationForest
+2. LocalOutlierFactor
+ out of which IsolatonForest worked well.
+
+### Programming language used
+
