@@ -19,4 +19,7 @@ Since the dataset is highly imbalanced, so we used algorithm to detect anomaly:
  out of which IsolatonForest worked well.
 
 ### Programming language used
-![](Images/index.png)
+![](images/index.jpeg)
+
+### Platform used
+![](images/index1.png)
